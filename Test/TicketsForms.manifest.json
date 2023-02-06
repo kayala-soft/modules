@@ -1,0 +1,10 @@
+{
+    "Id": "fd84d11f-bd76-4f0e-9ba7-faa7d51cc791",
+    "AppName": "Торговое место",
+    "Name": "Шаблоны ценников",
+    "Categories": [ "Печатные формы" ],
+    "Description": "Печатные формы ценников и этикеток",
+    "Version": "2.0",
+    "MinVersion": null,
+    "MinAppVersion": "1.5"
+}
